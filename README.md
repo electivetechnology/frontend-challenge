@@ -13,7 +13,7 @@ The purpose of this test is to ensure you have a knowledge of design patterns, u
 ## Test
 
 ### Create a single webpage that follows the design approach of Trello
-![alt text](https://github.com/electivegroup/frontend-challenge/edit/master/board.png "The Board")
+![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/board.png "The Board")
 #### Core Elements
 Design and Behaviour
 * Adhere to Material design
@@ -23,7 +23,7 @@ Design and Behaviour
 * Fields and icons in the top bar can be added but no requirement for functioning
 
 Cards
-![alt text](https://github.com/electivegroup/frontend-challenge/edit/master/card.png "Card")
+![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/card.png "Card")
 * Cards may vary in height dynamically depending on the content they are showing
 * Content displayed may break over multiple lines such as email address and labels
 * Labels are clickable and need to show a different state
@@ -33,7 +33,7 @@ Columns
 * Each column contains a list of cards
 
 ### Create a single page that displays a table of Clients
-![alt text](https://github.com/electivegroup/frontend-challenge/edit/master/clients-view.png "Clients")
+![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/clients-view.png "Clients")
 #### Core Elements
 Design and Behaviour
 * Adhere to Material design
