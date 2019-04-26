@@ -12,7 +12,7 @@ The purpose of this test is to ensure you have a knowledge of design patterns, u
 
 ## Test
 
-### Create a single webpage that follows the design approach of Trello
+### Part 1 - Create a single webpage that follows the design approach of Trello
 ![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/board.png "The Board")
 #### Core Elements
 Design and Behaviour
@@ -32,7 +32,7 @@ Columns
 * Columns are fixed in number and header
 * Each column contains a list of cards
 
-### Create a single page that displays a table of Clients
+### Part 2 - Create a single page that displays a table of Clients
 ![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/clients-view.png "Clients")
 #### Core Elements
 Design and Behaviour
