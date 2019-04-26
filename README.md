@@ -53,7 +53,7 @@ Evaluation criteria:
 * The software must do what it is supposed to do.
 
 2. Maintainability
-* The HTML markup must be W3C complient
+* The HTML and CSS markup must be W3C complient
 * The style markup must be witten in in scss or sass
 * The compiled css must be included in the repository
 * The instructions how to run compiler must be clearly described in INSTRUCTIONS.md
