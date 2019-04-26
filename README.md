@@ -47,6 +47,22 @@ Clients
 * I should be able to select multiple rows and be given the option to perform an action on those selected rows (buttons do not specifically need to perform any actions)
 
 ## Evaluation
+Evaluation criteria:
+
+1. Validity
+* The software must do what it is supposed to do.
+
+2. Maintainability
+* The HTML markup must be W3C complient
+* The style markup must be witten in in scss or sass
+* The compiled css must be included in the repository
+* The instructions how to run compiler must be clearly described in INSTRUCTIONS.md
+* The source code must be commented
+
+3. Exploitability
+* Any configuration must be easy.
+* The code must be documented.
+* The code must be easy to deploy.
 
 ## Help
 Should you have any questions please ask the team. Good luck!
