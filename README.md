@@ -19,7 +19,7 @@ Assumptions: There is no need to implement any backed dependencies (databases, s
 ## Challenge
 
 ## Create a single fully responsive webpage that follows the kanban design approach
-![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/board.png "The Board")
+![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/kanban-board.png "The Board")
 
 #### Board
 Design and Behaviour
@@ -31,7 +31,7 @@ Design and Behaviour
 * Cards may vary in height dynamically depending on the content they are showing
 
 ### Modal
-![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/card.png "Card")
+![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/modal-card.png "Card")
 * All fields are editable but no requirement to hook up to a database
 * Navigation links do not need to work
 * Arrow navigation does not need to work
