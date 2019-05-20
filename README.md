@@ -19,7 +19,7 @@ Assumptions: There is no need to implement any backed dependencies (databases, s
 ## Challenge
 
 ## Create a single fully responsive webpage that follows the kanban design approach
-![alt text]("https://github.com/electivegroup/frontend-challenge/blob/master/kanban-board.png" "The Board")
+![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/kanban-board.png "The Board")
 
 #### Board
 Design and Behaviour
