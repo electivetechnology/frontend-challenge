@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The purpose of this test is to ensure you have a knowledge of design patterns, usability and styling of the modern web applications. Please do not fork the repository and do not push your solution back to github. Please compress your complete git solution and send it to us as zip package. PLease ensure you include .git in your folder so that view your commits. Assumptions: There is no need to implement any backed dependencies (databases, storage, etc). Feel free to use existing libraries when possible Include any instructions (if required) in the INSTRUCTIONS.md
+The purpose of this test is to ensure you have a knowledge of design patterns, usability and styling of the modern web applications. Please do not fork the repository and do not push your solution back to github. Please compress your complete git solution and send it to us as zip package. PLease ensure you include .git in your folder so that view your commits. 
+
+Assumptions: There is no need to implement any backed dependencies (databases, storage, etc). Feel free to use existing libraries when possible. Include any instructions (if required) in the INSTRUCTIONS.md
 
 ## Deliverable
 * Clone repository
@@ -10,41 +12,30 @@ The purpose of this test is to ensure you have a knowledge of design patterns, u
 * zip the folder
 * Send it back to Elective
 
-## Test
+## Time
+* You should be aiming to spend approximately 3 hours on this challenge
+* The objective is to deliver what you can in this timeframe and not to replicate full experience of Trello or other similar kanban tools
 
-### Part 1 - Create a single webpage that follows the design approach of Trello
+## Challenge
+
+## Create a single fully responsive webpage that follows the kanban design approach
 ![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/board.png "The Board")
-#### Core Elements
+
+#### Board
 Design and Behaviour
-* Adhere to Material design
+* Use of Material design components: https://github.com/material-components/material-components-web
 * Page should be fully  responsive
-* Top bar and Navigation bar should adhere to material design guidelines
-* Left Navigation links do not need to work
-* Fields and icons in the top bar can be added but no requirement for functioning
-
-Cards
-![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/card.png "Card")
-* Cards may vary in height dynamically depending on the content they are showing
-* Content displayed may break over multiple lines such as email address and labels
-* Labels are clickable and need to show a different state
-
-Columns
+* Layout, including navigation drawer, should adhere to material design guidelines
+* Navigation links do not need to work
 * Columns are fixed in number and header
-* Each column contains a list of cards
+* Cards may vary in height dynamically depending on the content they are showing
 
-### Part 2 - Create a single page that displays a table of Clients
-![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/clients-view.png "Clients")
-#### Core Elements
-Design and Behaviour
-* Adhere to Material design
-* Page should be fully  responsive
-* Top bar and Navigation bar should adhere to material design guidelines
-* Left Navigation links do not need to work
-* Fields and icons in the top bar can be added but no requirement for functioning
+### Modal
+![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/card.png "Card")
+* All fields are editable but no requirement to hook up to a database
+* Navigation links do not need to work
+* Arrow navigation does not need to work
 
-Clients
-* Rows must have a hover state
-* I should be able to select multiple rows and be given the option to perform an action on those selected rows (buttons do not specifically need to perform any actions)
 
 ## Evaluation
 Evaluation criteria:
