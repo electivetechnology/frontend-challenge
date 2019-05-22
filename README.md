@@ -10,7 +10,7 @@ Assumptions: There is no need to implement any backed dependencies (databases, s
 * Clone repository
 * Commit your solution
 * zip the folder
-* Send it back to Elective
+* Send it back to developers[at]recii.io
 
 ## Time
 * You should be aiming to spend approximately 3 hours on this challenge
