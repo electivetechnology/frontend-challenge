@@ -23,19 +23,12 @@ Assumptions: There is no need to implement any backed dependencies (databases, s
 
 #### Board
 Design and Behaviour
-* Use of Material design components: https://github.com/material-components/material-components-web
+* Use of Material design components is preferred but not essential: https://github.com/material-components/material-components-web
 * Page should be fully  responsive
 * Layout, including navigation drawer, should adhere to material design guidelines
 * Navigation links do not need to work
 * Columns are fixed in number and header
 * Cards may vary in height dynamically depending on the content they are showing
-
-### Modal
-![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/modal-card.png "Card")
-* All fields are editable but no requirement to hook up to a database
-* Navigation links do not need to work
-* Arrow navigation does not need to work
-
 
 ## Evaluation
 Evaluation criteria:
