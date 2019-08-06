@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The purpose of this test is to ensure you have a knowledge of design patterns, usability and styling of the modern web applications. Please do not fork the repository and do not push your solution back to github. Please compress your complete git solution and send it to us as zip package. PLease ensure you include .git in your folder so that view your commits. 
+The purpose of this test is to ensure you have a knowledge of design patterns, usability and styling of the modern web applications. Please do not fork the repository and do not push your solution back to github. Please compress your complete git solution and send it to us as zip package. Please ensure you include .git in your folder so that view your commits. 
 
 Assumptions: There is no need to implement any backed dependencies (databases, storage, etc). Feel free to use existing libraries when possible. Include any instructions (if required) in the INSTRUCTIONS.md
 
@@ -18,7 +18,7 @@ Assumptions: There is no need to implement any backed dependencies (databases, s
 
 ## Challenge
 
-## Create a single fully responsive webpage that follows the kanban design approach
+## Create a single fully responsive static webpage that follows the kanban design approach
 ![alt text](https://github.com/electivegroup/frontend-challenge/blob/master/kanban-board.png "The Board")
 
 #### Board
@@ -27,8 +27,11 @@ Design and Behaviour
 * Page should be fully  responsive
 * Layout, including navigation drawer, should adhere to material design guidelines
 * Navigation links do not need to work
-* Columns are fixed in number and header
+* Columns are fixed in number and headers, it is not a requirement to be able to add or remove columns
+* Cards per column are fixed in number and content, it is not a requirement to be able to add or remove cards from the board
 * Cards may vary in height dynamically depending on the content they are showing
+
+_Note: It is not a requirement to recreate all the functionality of a kanban board including adding and removing columns, cards nor moving cards between columns. If this functionality is introduced, it will be included as part of the challenge review._
 
 ## Evaluation
 Evaluation criteria:
